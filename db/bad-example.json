@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "artist": "The Beatles",
+            "title": "Hey Jude"
+        },
+        {
+            "id": 2,
+            "artist": "Neil Young",
+            "title": "My My, Hey Hey"
+        },
+        {
+            "id": 3,
+            "artist": "The Rolling Stones",
+            "title": "Wild Horses"
+        },
+        {
+            "id": 4,
+            "artist": "Led Zeppelin",
+            "title": "Ten Years Gone"
+        },
+        {
+            "id": 5,
+            "artist": "Triumph",
+            "title": "Magic Power"
+        }
+    ]
+}
